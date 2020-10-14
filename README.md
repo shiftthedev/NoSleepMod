@@ -1,1 +1,1 @@
-This repository its for No Sleep Mod Issue Tracking and Wiki.
+Mod Page: https://www.curseforge.com/minecraft/mc-mods/no-sleep
